@@ -1,0 +1,14 @@
+body, html{
+	background: #F0E68C;
+	border: 2px solid red;
+}
+
+#cabecalho{
+	background: #E0FFFF;
+	border: 2px solid red;
+}
+
+.container{
+	background: #F0FFFF;
+	border: 2px solid red;
+}
