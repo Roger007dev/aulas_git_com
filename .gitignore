@@ -1,0 +1,6 @@
+neste arquivo tem que relatar qual arquivo queremos que seja ignorado pelo git e github
+no caso vou colocar a baixo o arquivo a ser ignorado por eles
+backup-teste.sql
+
+
+para ignorar todos arquivo de uma certa estenção é so colocar EX *,ponto js , *,ponto html .... assim por diantes 
